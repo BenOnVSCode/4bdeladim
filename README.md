@@ -2,7 +2,7 @@
 
 ## I'm a Self Thaught Developer!!
 
-- 🌱 I’m currently learning ReactJS. 
+- 🌱 I’m currently learning Express and MongoDb. 
 - ⚡ Fun fact: I don't drink coffee.
 
 
