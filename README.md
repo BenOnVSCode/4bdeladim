@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdeladim.
 
-## I'm a Self Thaught Developer!!
+## I'm a JavaScript Developer!!
 
 - 🌱 I’m currently learning Express and MongoDb. 
 - ⚡ Fun fact: I don't drink coffee.
