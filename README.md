@@ -1,8 +1,8 @@
 ### Hi there, I'm Abdeladim.
 
-## I'm a Front End Developer!!
+## I'm a JavaScript Developer!!
 
-- 🌱 I’m currently learning everythings . 
+- 🌱 I’m currently learning express and mongodb . 
 - ⚡ Fun fact: I don't drink coffee.
 
 
