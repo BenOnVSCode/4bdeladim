@@ -1,9 +1,9 @@
-### Hi there, I'm Abdeladim.
+### My name is Abdeladim.
 
-## I'm a JavaScript Developer!!
+## I'm a Self-taught Developer!!
 
-- 🌱 I’m currently learning express and mongodb . 
-- ⚡ Fun fact: I don't drink coffee.
+- 🌱 I always learning and try to make my skills better every day. 
+- ⚡ Fun fact: I don't drink coffee
 
 
 
