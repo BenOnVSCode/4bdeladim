@@ -2,7 +2,8 @@
 
 ## I'm a Self-taught Developer!!
 
-- 🌱 I always learning and try to make my skills better every day. 
+- 🌱 I'm always learning and try to make my skills better every day. 
+- 👨‍🏫 Documenting my journey
 - ⚡ Fun fact: I don't drink coffee
 
 
