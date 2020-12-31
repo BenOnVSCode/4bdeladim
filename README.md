@@ -1,10 +1,10 @@
 ### My name is Abdeladim.
 
-## I'm a Self-taught Developer!!
+## I'm Full Stack Developer!!
 
-- 🌱 I'm always learning and try to make my skills better every day. 
+- 🌱 if(alive) learn. 
 - 👨‍🏫 Documenting my journey
-- ⚡ Fun fact: I don't drink coffee
+
 
 
 
